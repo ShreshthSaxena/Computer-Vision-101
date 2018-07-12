@@ -44,6 +44,6 @@ Turns out the model could identify only two pedestrians leaving behind John Lenn
 
 ![image2](https://user-images.githubusercontent.com/23148500/42644421-35157502-8619-11e8-90a5-3f94b864e56c.jpg)
 ![image2_new](https://user-images.githubusercontent.com/23148500/42644422-354e750a-8619-11e8-911a-e3f752155ebc.jpg)  
-Maybe the grooming ? Anyway 50% accuracy is good enough for a start   
+Maybe the grooming ? Anyway that's good enough for a start  
 
 **BEATLES** forever !
