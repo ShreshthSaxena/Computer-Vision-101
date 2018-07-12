@@ -29,12 +29,13 @@
 
 We'll use the pre-trained RetinaNet-based model (why? its a quick proect)  
 Download the model from *https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5* and save in cwd.  
-thats it, run the script (python script.py) with proper image name in script. Model runs and saves the image file with detected objects.  
+that's it, run the script (python script.py) with proper image name in script. Model runs and saves the image file with detected objects.  
 
 
 
 ## Observations :
 The 'image.png' worked well and model identified the solo pedestrian
+
 ![image](https://user-images.githubusercontent.com/23148500/42644404-26839316-8619-11e8-9ff7-977b1b4b2068.png)
 ![image_new](https://user-images.githubusercontent.com/23148500/42644420-34db584a-8619-11e8-8acb-2940b2e332c9.png)
 
